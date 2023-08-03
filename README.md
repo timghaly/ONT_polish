@@ -1,6 +1,6 @@
 # ONT_polish
 
-This script takes a Nanopore assembly and runs four rounds of Racon polishing using MiniMap2 for read mapping, and then one round of Medaka polishing.
+The script [ONT_polish.sh](https://github.com/timghaly/ONT_polish/blob/main/ONT_polish.sh) takes a Nanopore assembly and runs four rounds of Racon polishing using MiniMap2 for read mapping, and then one round of Medaka polishing.
 
 ## Dependencies
 [Minimap2 GitHub page](https://github.com/lh3/minimap2) and [Conda install](https://anaconda.org/bioconda/minimap2)
